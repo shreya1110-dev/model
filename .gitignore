@@ -3,6 +3,7 @@
 # dependencies
 qn1-react/node_modules
 qn3-react/node_modules
+qn7-react/node_modules
 /.pnp
 .pnp.js
 

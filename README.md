@@ -29,3 +29,7 @@ C. Develop a calculator using react js
 6.A.Create a form on website for Car company . Use semantic tags . 
 B. On submit, goes to the Servlet that has to access and retrive the table and print it as a table in the webpage where the form is created. 
 C. Using session concept print no. of users logged in to the website
+
+7. create a converter app(hex, bcd, dec) using React
+dynamically display output
+create database in mongo, update allowance to 20000 if the dept is cse.
